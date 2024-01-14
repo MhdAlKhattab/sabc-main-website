@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'email' => 'info@sabc.com.sa',
+    'email' => 'info@sabc-saudi.com',
     'phone' => '+966 56 100 1000',
     'instagram' => 'www.instagram.com',
     'facebook' => 'www.facebook.com',
